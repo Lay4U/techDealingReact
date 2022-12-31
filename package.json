@@ -1,6 +1,15 @@
 {
   "dependencies": {
+    "axios": "^1.2.2",
+    "immer": "^9.0.16",
+    "react-redux": "^8.0.5",
     "react-router-dom": "^6.6.1",
-    "react-virtualized": "^9.22.3"
+    "react-virtualized": "^9.22.3",
+    "redux": "^4.2.0",
+    "redux-actions": "^2.6.5",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-saga": "^1.2.2",
+    "styled-components": "^5.3.6",
+    "webpack-node-externals": "^3.0.0"
   }
 }
