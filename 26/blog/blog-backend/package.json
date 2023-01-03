@@ -13,13 +13,11 @@
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
     "koa-router": "^7.4.0",
-    "mongoose": "^5.5.2",
-    "react-router-dom": "5"
+    "mongoose": "^5.5.2"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
-    "nodemon": "^1.18.11",
-    "sanitize-html": "^2.8.1"
+    "nodemon": "^1.18.11"
   },
   "scripts": {
     "start": "node -r esm src",
